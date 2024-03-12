@@ -33,6 +33,10 @@
 <div align="left">
     <img src="https://skillicons.dev/icons?i=unity" height="40" alt="cplusplus logo"  />
   <img width="12" />
+      <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+        <img src="https://skillicons.dev/icons?i=github" height="40" alt="cplusplus logo"  />
+  <img width="12" />
   
 </div>
 
