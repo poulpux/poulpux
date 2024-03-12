@@ -52,6 +52,7 @@
  ProjectName<br>
 Languages used : <br>
 Project duration : <br>
+Date : 00/00/0000<br>
 Staff : <br>
 Type :  <br>
 </div>
@@ -63,6 +64,7 @@ FreakSquad<br>
 Languages used : C++, SFML<br>
 Role : dev IA<br>
 Project duration : 6 weeks<br>
+Date : 15/04/2023<br>
 Staff : 30 people<br>
 Type : Fighting game, beat them all <br>
 Gameplay : https://www.youtube.com/watch?v=aGvN89N8iu8<br><br>
@@ -73,15 +75,16 @@ Gameplay : https://www.youtube.com/watch?v=aGvN89N8iu8<br><br>
 <h2 align="left"></h2>
 <br> 
 
- <img align="right" height="250" src="https://i.ytimg.com/vi/aGvN89N8iu8/maxresdefault.jpg"  />
-AtomikRoyalReborn<br>
+ <img align="right" height="250" src="https://static.wikia.nocookie.net/darwin-project/images/e/ec/Nuke.png/revision/latest?cb=20200105073958"  />
+AtomikRoyalReborn (Prototype)<br>
 Languages used : C#, Unity<br>
 Role : Physic dev, level design and gameplay dev<br>
 Project duration : 1 weeks<br>
+Date : 12/02/2024<br>
 Staff : 2 people<br>
 Type : Multiplayer game <br>
-Gameplay : https://www.youtube.com/watch?v=aGvN89N8iu8<br><br>
-<img align="left" height="250" src="https://lh3.googleusercontent.com/pw/AP1GczOR-b650af1zYXXS7nIz_v5B_5hrKB977KtW9eVJlvIHvx1_Q9HMwaNg4mZufYGW-IxHjzDhGK89xMPlVxbfwcOgDSpdNVM3oa8u2SvIxk-pr5Ktzc0WR6q9i5gWIcYz1Q5qSxnR3MmzSQSUMbtzwjPXCJe1M0zgRqzE2Q2fCqHabFRlIaZVcfreyMa7SytJqu1wkvB4asAUEIt3eHrw3sp4W8nkIy4ErLMmwYdTqd8y8hTB7QNouR03z33lMCXynwzHdpvbpo22Fzcd_Pfp-DMR3ZCaWNmQ2lMBJVCIvWpDtQ9NSiS9BK8eEXrrXe-nXB2_DH-G4itoYGJEujaKCnCC5-slqo7gAQ_JgFcfMhV8QNQj8Sxk8SVlxcQ8PVOgzBK8FuCjKEKFIown0-JLNOti83JhTTiypyT-CSAQY8Z-J8GdCOQ_RxmrHK6kW60bPt-33fq4eSKEzy_z8Iam6THYHhA7HLTyX9GNUwLT6N25934jv7q5_KtMB8tFEGD2g18npuoZrMfIKayYZhbMSFOWAyDswxofGuMh1fNRh3RTXLPtsJAcozkxVK11vlwyZp5K_twhJXoXwzVg7scKsOrSMf9QjWRFt1DzlU3Rb18FZsNnWwtUAO9tV7U7oNxl7myiaupg5O4vIrGDpKbdEZmTqqGjcM8LhdSbKVJdtJ_PpOnHMGBLJjALoSFv5ke5pZZMHA1TByGQJAh4IHavZmgOuKHZkx0y0BLGj0gD1df8jXWqeselP09f2jfEESHj5bsCSvpylglP66_CF8YEQxYMUdqs0Z-4OO_p6Lbp0XbZHReqGBSsWz41VXU8bxwr2vlraMjLg5PqeTRMvqyDIWzF3VlICDMy_E_zwmrqa5uSDu4oTkdWqdKXG7v2wC2uNLKQEIthn1WCIgwzk1pTztjEgzBvUOFbNdNFCy2f-hPveF1gfmwti4ckPBvg27Cze-CDB6JEziZhSPrHyiAzzOkVik9cxG5QW15THZE5mqt4P4TkodfWmbKGtKKqwrbpG_7FvwljiVVP6UnABxBUXpgr-rRAz8QHziZz6dsW-RYbnfkXi_V5KKXjnpYALsVKsIX7RqsxTNekJI=w1317-h684-s-no-gm?authuser=0"  />
+Gameplay : https://www.instagram.com/p/C3ausM7NtP5/?img_index=1<br><br>
+<img align="left" height="250" src="https://i.ytimg.com/vi/eu3gUgZjkmM/maxresdefault.jpg"  />
 
  <br><br>
 </div>
