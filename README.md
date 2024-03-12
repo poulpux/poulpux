@@ -96,7 +96,7 @@ Gameplay : https://www.instagram.com/p/C3ausM7NtP5/?img_index=1<br><br>
 <h2 align="left"></h2>
 <br> 
 
- <img align="left" height="250" src="https://raw.githubusercontent.com/Kevin38300/ProjetGroupe1/main/Assets/Sprite/pyromane.jpg?token=GHSAT0AAAAAACPDEGJXYNP65NYP3UJBKFFKZPQV7IA"  />
+ <img align="left" height="300" src="https://raw.githubusercontent.com/Kevin38300/ProjetGroupe1/main/Assets/Sprite/pyromane.jpg?token=GHSAT0AAAAAACPDEGJXYNP65NYP3UJBKFFKZPQV7IA"  />
 Bob VS Fernand <br>
 Languages used : C#, Unity<br>
 Role : 3C, physics<br>
@@ -104,8 +104,8 @@ Project duration : 5 weeks<br>
 Date : 12/02/2024<br>
 Staff : 5 people<br>
 Type : Asymmetric versus game<br>
-Lore : Bob is a pyromaniak and want to burn Fernand farm before the time limit. <br>The player who will best use his skills, and master the field better, will win this wild game! <br><br>May the flame of victory be with you!
-<img align="right" height="250" src="https://raw.githubusercontent.com/Kevin38300/ProjetGroupe1/main/Assets/Texture/Menu/FarmerFond.jpg?token=GHSAT0AAAAAACPDEGJWXGQLO6BA75Q5NLKUZPQWAQQ"  />
+Lore : Bob is a pyromaniak and want to burn Fernand farm before the time limit. <br>The player who will best use his skills, and master the field better, will win this wild game! <br><br>May the flame of victory be with you!<br><br>
+<img align="right" height="350" src="https://raw.githubusercontent.com/Kevin38300/ProjetGroupe1/main/Assets/Texture/Menu/FarmerFond.jpg?token=GHSAT0AAAAAACPDEGJWXGQLO6BA75Q5NLKUZPQWAQQ"  />
 
  <br><br>
 </div>
