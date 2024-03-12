@@ -1,7 +1,6 @@
 <h2 align="left">Hi 👋! My name is Ambroise, from France.</h2>
 
 <br clear="both">
-<img align="right" height="250" src="https://lh3.googleusercontent.com/pw/AP1GczNk0ySnw-Owp4XKrMjABSWAeTJ5y6iEl8E0BEK2XzAQCS0yxDxxmn5KJ_0brH39kVMq9ov2N4YXR_vd5HNaf_tYoJ2swbOHbXE8_-jFY5Wc1bBFcHzsDDtSE29kFEd6gHlbA9xWXINcP8mJwZ645SZYlzE9eax9b76cs9azeU3-sSoSkEm-JcqtPyiKgwrrdCuSDO9GKTf4xMQ2TOGkouYVJQqu8DjvYaBOsvQLDOeilJI4VTF9dKPEIK_hdi0cn2j0dIyheg9VJiNWpBTT2MvOmTnF7JoJ0nCdhIfUy8puS05C-ki2CZtb3uWeI9slCDzAuiM0kZ0W4AZAb_gRnRnfWBBA95xXvJywIGzYWWRIhNQ5GUK2sXxR6Ig5hI0BYX4xBkCfaTrz3Gtmf32c37zPu-cAPQlybeyTKMtmFcPUwLQ2D6GGBmZbWXIl2Koy8Vu-YD3aR8JIaDJRqx_DlvE78mveUJhHCVcS7-VFRIGPgBFCbzpW6fXyMK9TtGSKIOQFH0Vm7dsCPiKaYrMHGBkbGEeEkRLsi2aWUxeGVXz0zINWwAliESVJpPu-0WX25mShgD8TwIjC29BvLDSNOTLDHET8284HPNB_X8yHUrUB5L0eLQ9yyZ33OZ3nEGuPfc4L9p6zkTLl0DZ3CRfNBp305CHBbE1QGlfklJH4WEN_ohJjgwEU7uRnHoAKbzCBA8EaYVkGmT3Zqcghd3mVth9TtZIdYWLsoArfsdNWEQVT5DWwnxu77YQMrJCyTFR0ixV4Ljzx5MOv05M91DmwiSP379YXkp5mrOFmMcOMD6qHBJJQXxwFp4VdDpiiaPfTK5lr_BKJOgE5dgIUmtujUVnm-zYaYHSZNRip3T2VWAMVuZtdt81dNBNH_hKbFZo_HaPqkoRN4D-0f5vZy6HWChMd8y4=w296-h296-s-no-gm?authuser=0"  />
 
 <h8 align="left">At 19 and currently a student at the Game Academy, I am a programming enthusiast specializing in C++ development with SFML and C# on Unity.<br><br>My extensive training not only allowed me to acquire advanced skills in these languages, but also to develop significant experience in collaborative work.<br><br>Accustomed to working in groups, I have actively contributed to many projects, both in teams and solo, demonstrating my versatility and passion for innovation in the field of video game development.<br><br><br><br></h8>
 <div align="center">
@@ -71,7 +70,9 @@ Gameplay : https://www.youtube.com/watch?v=aGvN89N8iu8<br><br>
 
 <img align="right" height="200" src="https://lh3.googleusercontent.com/pw/AP1GczOR-b650af1zYXXS7nIz_v5B_5hrKB977KtW9eVJlvIHvx1_Q9HMwaNg4mZufYGW-IxHjzDhGK89xMPlVxbfwcOgDSpdNVM3oa8u2SvIxk-pr5Ktzc0WR6q9i5gWIcYz1Q5qSxnR3MmzSQSUMbtzwjPXCJe1M0zgRqzE2Q2fCqHabFRlIaZVcfreyMa7SytJqu1wkvB4asAUEIt3eHrw3sp4W8nkIy4ErLMmwYdTqd8y8hTB7QNouR03z33lMCXynwzHdpvbpo22Fzcd_Pfp-DMR3ZCaWNmQ2lMBJVCIvWpDtQ9NSiS9BK8eEXrrXe-nXB2_DH-G4itoYGJEujaKCnCC5-slqo7gAQ_JgFcfMhV8QNQj8Sxk8SVlxcQ8PVOgzBK8FuCjKEKFIown0-JLNOti83JhTTiypyT-CSAQY8Z-J8GdCOQ_RxmrHK6kW60bPt-33fq4eSKEzy_z8Iam6THYHhA7HLTyX9GNUwLT6N25934jv7q5_KtMB8tFEGD2g18npuoZrMfIKayYZhbMSFOWAyDswxofGuMh1fNRh3RTXLPtsJAcozkxVK11vlwyZp5K_twhJXoXwzVg7scKsOrSMf9QjWRFt1DzlU3Rb18FZsNnWwtUAO9tV7U7oNxl7myiaupg5O4vIrGDpKbdEZmTqqGjcM8LhdSbKVJdtJ_PpOnHMGBLJjALoSFv5ke5pZZMHA1TByGQJAh4IHavZmgOuKHZkx0y0BLGj0gD1df8jXWqeselP09f2jfEESHj5bsCSvpylglP66_CF8YEQxYMUdqs0Z-4OO_p6Lbp0XbZHReqGBSsWz41VXU8bxwr2vlraMjLg5PqeTRMvqyDIWzF3VlICDMy_E_zwmrqa5uSDu4oTkdWqdKXG7v2wC2uNLKQEIthn1WCIgwzk1pTztjEgzBvUOFbNdNFCy2f-hPveF1gfmwti4ckPBvg27Cze-CDB6JEziZhSPrHyiAzzOkVik9cxG5QW15THZE5mqt4P4TkodfWmbKGtKKqwrbpG_7FvwljiVVP6UnABxBUXpgr-rRAz8QHziZz6dsW-RYbnfkXi_V5KKXjnpYALsVKsIX7RqsxTNekJI=w1317-h684-s-no-gm?authuser=0"  />
 
-<br><br> <br><br>  <br><br>  <br><br>  <br><br>  <br><br>  <br>
+
+
+<br><br> <br><br>  <br><br>  <br><br>  <br><br>  <br>
 <h2 align="left"></h2>
 <br> 
 
@@ -85,6 +86,26 @@ Staff : 2 people<br>
 Type : Multiplayer game <br>
 Gameplay : https://www.instagram.com/p/C3ausM7NtP5/?img_index=1<br><br>
 <img align="left" height="250" src="https://i.ytimg.com/vi/eu3gUgZjkmM/maxresdefault.jpg"  />
+
+ <br><br>
+
+
+
+
+ <br><br> <br><br>  <br><br>  <br><br>  <br><br>  <br>
+<h2 align="left"></h2>
+<br> 
+
+ <img align="left" height="250" src="https://raw.githubusercontent.com/Kevin38300/ProjetGroupe1/main/Assets/Sprite/pyromane.jpg?token=GHSAT0AAAAAACPDEGJXYNP65NYP3UJBKFFKZPQV7IA"  />
+Bob VS Fernand <br>
+Languages used : C#, Unity<br>
+Role : 3C, physics<br>
+Project duration : 5 weeks<br>
+Date : 12/02/2024<br>
+Staff : 5 people<br>
+Type : Asymmetric versus game<br>
+Lore : Bob is a pyromaniak and want to burn Fernand farm before the time limit. <br>The player who will best use his skills, and master the field better, will win this wild game! <br><br>May the flame of victory be with you!
+<img align="right" height="250" src="https://raw.githubusercontent.com/Kevin38300/ProjetGroupe1/main/Assets/Texture/Menu/FarmerFond.jpg?token=GHSAT0AAAAAACPDEGJWXGQLO6BA75Q5NLKUZPQWAQQ"  />
 
  <br><br>
 </div>
