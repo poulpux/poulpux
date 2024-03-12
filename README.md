@@ -80,7 +80,7 @@ Gameplay : https://www.youtube.com/watch?v=aGvN89N8iu8<br><br>
  <img align="right" height="250" src="https://static.wikia.nocookie.net/darwin-project/images/e/ec/Nuke.png/revision/latest?cb=20200105073958"  />
 AtomikRoyalReborn (Prototype)<br>
 Languages used : C#, Unity<br>
-Role : Physic dev, level design and gameplay dev<br>
+Role : Physics, 3C and level design <br>
 Project duration : 1 weeks<br>
 Date : 12/02/2024<br>
 Staff : 2 people<br>
@@ -103,7 +103,7 @@ Bob VS Fernand <br>
 Languages used : C#, Unity<br>
 Role : 3C, physics<br>
 Project duration : 5 weeks<br>
-Date : 12/02/2024<br>
+Date : 09/10/2023<br>
 Staff : 5 people<br>
 Type : Asymmetric versus game<br>
 Lore : Bob is a pyromaniak and want to burn Fernand farm before the time limit. <br>The player who will best use his skills, and master the field better, will win this wild game! <br><br>May the flame of victory be with you!<br><br>
