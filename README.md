@@ -1,11 +1,10 @@
-<h2 align="left">Hi 👋! My name is Thomas and I'm a student, from France</h2>
+<h2 align="left">Hi 👋! My name is Ambroise, from France.</h2>
 
 <br clear="both">
 
 <img align="left" height="250" src="https://i.imgur.com/qE9WERa.gif"  />
 
-<h6 align="left">I'm a 19-year-old student studying BTS SN. As a beginner in the field of coding, I'm focusing on learning C++ and object-oriented programming (OOP). I'm also exploring other technologies such as React, Spring Boot, SQL, and more.<br><br>Currently, I'm deepening my understanding and developing my skills in these areas. I'm always open to learning new technologies and collaborating on interesting projects.<br><br>Feel free to take a look at my projects and reach out for any collaborative opportunities. Thank you!<br><br><br>I'm currently deepening my understanding and developing my skills in these areas. I'm always open to learning new technologies and collaborating on interesting projects.<br><br>Feel free to take a look at my projects and reach out for any collaborative opportunities. Thank you!</h6>
-
+<h6 align="left">At 19 and currently a student at the Game Academy, I am a programming enthusiast specializing in C++ development with SFML and C# on Unity.<br><br>My extensive training not only allowed me to acquire advanced skills in these languages, but also to develop significant experience in collaborative work.<br><br>Accustomed to working in groups, I have actively contributed to many projects, both in teams and solo, demonstrating my versatility and passion for innovation in the field of video game development.</h6>
 <div align="center">
  
   <img src="https://github-readme-stats-thomashnis-projects.vercel.app/api?username=Poulpux&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
