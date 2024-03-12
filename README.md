@@ -44,3 +44,24 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
+
+<h2 align="left">Some projects</h2>
+<div align="center">
+<h8 align="left">
+ ProjectName<br>
+Languages used : <br>
+Project duration : <br>
+Staff : <br>
+Type :  <br>
+
+ <br><br>
+
+FreakSquad<br>
+Languages used : C++, SFML<br>
+Role : dev IA
+Project duration : 6 weeks<br>
+Staff : 30 people<br>
+Type : Fighting game, beat them all <br>
+Gameplay : https://www.youtube.com/watch?v=aGvN89N8iu8
+ <br><br>
+</div>
