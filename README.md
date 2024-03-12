@@ -1,8 +1,9 @@
 <h2 align="left">Hi 👋! My name is Ambroise, from France.</h2>
 
 <br clear="both">
+<img align="right" height="250" src="https://lh3.googleusercontent.com/pw/AP1GczNk0ySnw-Owp4XKrMjABSWAeTJ5y6iEl8E0BEK2XzAQCS0yxDxxmn5KJ_0brH39kVMq9ov2N4YXR_vd5HNaf_tYoJ2swbOHbXE8_-jFY5Wc1bBFcHzsDDtSE29kFEd6gHlbA9xWXINcP8mJwZ645SZYlzE9eax9b76cs9azeU3-sSoSkEm-JcqtPyiKgwrrdCuSDO9GKTf4xMQ2TOGkouYVJQqu8DjvYaBOsvQLDOeilJI4VTF9dKPEIK_hdi0cn2j0dIyheg9VJiNWpBTT2MvOmTnF7JoJ0nCdhIfUy8puS05C-ki2CZtb3uWeI9slCDzAuiM0kZ0W4AZAb_gRnRnfWBBA95xXvJywIGzYWWRIhNQ5GUK2sXxR6Ig5hI0BYX4xBkCfaTrz3Gtmf32c37zPu-cAPQlybeyTKMtmFcPUwLQ2D6GGBmZbWXIl2Koy8Vu-YD3aR8JIaDJRqx_DlvE78mveUJhHCVcS7-VFRIGPgBFCbzpW6fXyMK9TtGSKIOQFH0Vm7dsCPiKaYrMHGBkbGEeEkRLsi2aWUxeGVXz0zINWwAliESVJpPu-0WX25mShgD8TwIjC29BvLDSNOTLDHET8284HPNB_X8yHUrUB5L0eLQ9yyZ33OZ3nEGuPfc4L9p6zkTLl0DZ3CRfNBp305CHBbE1QGlfklJH4WEN_ohJjgwEU7uRnHoAKbzCBA8EaYVkGmT3Zqcghd3mVth9TtZIdYWLsoArfsdNWEQVT5DWwnxu77YQMrJCyTFR0ixV4Ljzx5MOv05M91DmwiSP379YXkp5mrOFmMcOMD6qHBJJQXxwFp4VdDpiiaPfTK5lr_BKJOgE5dgIUmtujUVnm-zYaYHSZNRip3T2VWAMVuZtdt81dNBNH_hKbFZo_HaPqkoRN4D-0f5vZy6HWChMd8y4=w296-h296-s-no-gm?authuser=0"  />
 
-<h8 align="left">At 19 and currently a student at the Game Academy, I am a programming enthusiast specializing in C++ development with SFML and C# on Unity.<br><br>My extensive training not only allowed me to acquire advanced skills in these languages, but also to develop significant experience in collaborative work.<br><br>Accustomed to working in groups, I have actively contributed to many projects, both in teams and solo, demonstrating my versatility and passion for innovation in the field of video game development.<br><br></h8>
+<h8 align="left">At 19 and currently a student at the Game Academy, I am a programming enthusiast specializing in C++ development with SFML and C# on Unity.<br><br>My extensive training not only allowed me to acquire advanced skills in these languages, but also to develop significant experience in collaborative work.<br><br>Accustomed to working in groups, I have actively contributed to many projects, both in teams and solo, demonstrating my versatility and passion for innovation in the field of video game development.<br><br><br><br></h8>
 <div align="center">
  
   <img src="https://github-readme-stats.vercel.app/api?username=poulpux&show_icons=true&show_icons=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150"  />
@@ -14,7 +15,7 @@
 </div>
 
 <br clear="both">
-
+<br><br><br>
 <p align="left">Languages :</p>
 
 <div align="left">
