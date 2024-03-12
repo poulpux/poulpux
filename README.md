@@ -77,7 +77,7 @@ Gameplay : https://www.youtube.com/watch?v=aGvN89N8iu8<br><br>
 <h2 align="left"></h2>
 <br> 
 
- <img align="right" height="250" src="https://static.wikia.nocookie.net/darwin-project/images/e/ec/Nuke.png/revision/latest?cb=20200105073958"  />
+ <img align="right" height="350" src="https://static.wikia.nocookie.net/darwin-project/images/e/ec/Nuke.png/revision/latest?cb=20200105073958"  />
 AtomikRoyalReborn (Prototype)<br>
 Languages used : C#, Unity<br>
 Role : Physics, 3C and level design <br>
@@ -86,14 +86,9 @@ Date : 12/02/2024<br>
 Staff : 2 people<br>
 Type : Multiplayer game <br>
 Gameplay : https://www.instagram.com/p/C3ausM7NtP5/?img_index=1<br><br>
-<img align="left" height="250" src="https://i.ytimg.com/vi/eu3gUgZjkmM/maxresdefault.jpg"  />
+<img align="center" height="250" src="https://i.ytimg.com/vi/eu3gUgZjkmM/maxresdefault.jpg"  />
 
- <br><br>
-
-
-
-
- <br><br> <br><br>  <br><br>  <br><br>  <br><br>  <br>
+ <br><br> 
 <h2 align="left"></h2>
 <br> 
 
