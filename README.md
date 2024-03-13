@@ -135,10 +135,11 @@ BlueLine, evolue, with you.
 
  <br><br>
 
+![Projetbombercpp _ Captur� avec GeForce (1)](https://github.com/poulpux/poulpux/assets/114729806/eccf2e90-b924-447d-a529-7334b29c59b9)
 
 
  <h2 align="left"></h2>
-![Projetbombercpp_CapturavecGeForce1-ezgif com-resize](https://github.com/poulpux/poulpux/assets/114729806/55011f1a-8431-49bb-bf47-e1ed279f920c)
+
 
 
  <img align="left" height="300" src="https://i.imgur.com/C3EoJIf.gif"  />
