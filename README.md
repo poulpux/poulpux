@@ -149,7 +149,8 @@ BlueLine, evolue, with you.
 
  <img align="left" height="300" src="https://i.imgur.com/C3EoJIf.gif"  />
  
-Atomik Royal used : C++, SFML<br>
+Atomik Royal <br>
+Languages used : C++, SFML<br>
 Role : Network, 3C<br>
 Project duration : 7 weeks<br>
 Date : 23/02/2023<br>
