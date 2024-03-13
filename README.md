@@ -134,9 +134,9 @@ BlueLine contain : <br>
 BlueLine, evolue, with you.
 
  <br><br>
+ <img align="left" height="300" "  />![Projetbombercpp _ Captur� avec GeForce (1)](https://github.com/poulpux/poulpux/assets/114729806/a0777969-8d15-44f1-a4cc-d50b2efcc441)
 
-<img align="left" height="250" ![Projetbombercpp _ Captur� avec GeForce (1)](https://github.com/poulpux/poulpux/assets/114729806/a8924863-8f40-45bd-9826-20e692f07711)
-  />
+
  <h2 align="left"></h2>
 
 
