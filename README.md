@@ -135,7 +135,7 @@ BlueLine, evolue, with you.
 
  <br><br>
 
-
+<img align="left" height="250" src="https://i.imgur.com/3Jyyi4f.gif"  />
  <h2 align="left"></h2>
  
  <img align="left" height="300" src="https://i.imgur.com/C3EoJIf.gif"  />
@@ -148,7 +148,7 @@ Staff : 3 people<br>
 Type : Online battle royal<br>
 Lore : Be propelled up to 12 players in this chaotic remix of the famous Bomberman. <br>A bigger map, more explosions, nothing better to challenge your friends and see who from you will survive !<br>Even after death, continue to influence the game with abilities such as the famous atomic bomb and many others !  <br><br>
 
-<img align="right" height="350" src="https://i.imgur.com/ZDdkN5t.gif"  />
+<img align="right" height="350" src="https://i.imgur.com/m7F27Bw.gif"  />
 
  <br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br>
 
