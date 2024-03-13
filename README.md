@@ -162,7 +162,7 @@ Lore : Be propelled up to 12 players in this chaotic remix of the famous Bomberm
 ![Projetbombercpp_CapturavecGeForce1-ezgif com-resize (1)](https://github.com/poulpux/poulpux/assets/114729806/33762810-8102-4348-b6ad-1c177cdadd7b)
 
  </div>
- <br><br> <br><br> <br><br> <br><br>
+ <br><br> <br>
  <div align="center">
 
 
