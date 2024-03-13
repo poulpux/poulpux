@@ -140,7 +140,8 @@ BlueLine, evolue, with you.
  <h2 align="left"></h2>
  </div>
  <div align="left">
-![Projetbombercpp_CapturavecGeForce-ezgif com-resize](https://github.com/poulpux/poulpux/assets/114729806/f2aeddf8-cf26-4109-9350-8e85a9cf1d09)
+
+![Projetbombercpp_CapturavecGeForce-ezgif com-resize](https://github.com/poulpux/poulpux/assets/114729806/cb0b02df-90d6-4337-8c55-1142436f52a9)
 
 
  </div>
@@ -155,15 +156,19 @@ Date : 23/02/2023<br>
 Staff : 3 people<br>
 Type : Online battle royal<br>
 Lore : Be propelled up to 12 players in this chaotic remix of the famous Bomberman. <br>A bigger map, more explosions, nothing better to challenge your friends and see who from you will survive !<br>Even after death, continue to influence the game with abilities such as the famous atomic bomb and many others !  <br><br>
-
+ </div>
+ <div align="right">
+  
 ![Projetbombercpp_CapturavecGeForce1-ezgif com-resize (1)](https://github.com/poulpux/poulpux/assets/114729806/33762810-8102-4348-b6ad-1c177cdadd7b)
 
+ </div>
  <br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br>
+ <div align="center">
 
 
 
 
- <h2 align="left"></h2>
+ <h2 align="left">and many others...</h2>
 <br> 
 </div>
 
