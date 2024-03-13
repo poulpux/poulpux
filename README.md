@@ -134,6 +134,29 @@ BlueLine contain : <br>
 BlueLine, evolue, with you.
 
  <br><br>
+
+
+ <h2 align="left"></h2>
+ 
+ <img align="left" height="300" src="https://i.imgur.com/C3EoJIf.gif"  />
+ 
+Atomik Royal used : C++, SFML<br>
+Role : Network, 3C<br>
+Project duration : 7 weeks<br>
+Date : 23/02/2023<br>
+Staff : 3 people<br>
+Type : Online battle royal<br>
+Lore : Be propelled up to 12 players in this chaotic remix of the famous Bomberman. <br>A bigger map, more explosions, nothing better to challenge your friends and see who from you will survive !<br>Even after death, continue to influence the game with abilities such as the famous atomic bomb and many others !  <br><br>
+
+<img align="right" height="350" src="https://i.imgur.com/ZDdkN5t.gif"  />
+
+ <br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br>
+
+
+
+
+ <h2 align="left"></h2>
+<br> 
 </div>
 
 
