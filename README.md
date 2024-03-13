@@ -64,7 +64,7 @@ Staff : 30 people<br>
 Type : Fighting game, beat them all <br>
 Gameplay : https://www.youtube.com/watch?v=aGvN89N8iu8<br><br>
 
-<img align="right" height="250" src="https://i.imgur.com/yMkInMr.png"  />
+<img align="right" height="250" src="https://i.imgur.com/xTVtcE1.png"  />
 
 
 
