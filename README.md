@@ -48,14 +48,13 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 
-<h2 align="left">Some projects</h2>
-
+ 
+<h2 align="left">FreakSquad</h2>
 </div>
  <br><br>
  <img align="left" height="250" src="https://i.ytimg.com/vi/aGvN89N8iu8/maxresdefault.jpg"  />
 
 <div align="center">
-FreakSquad<br>
 Languages used : C++, SFML<br>
 Role : dev IA<br>
 Project duration : 6 weeks<br>
@@ -70,11 +69,10 @@ Gameplay : https://www.youtube.com/watch?v=aGvN89N8iu8<br><br>
 
 <br><br> <br><br>  <br><br>  <br><br>  <br><br>  <br><br><br>
 
-<h2 align="left"></h2>
+<h2 align="left">AtomikRoyalReborn (Prototype)</h2>
 <br> 
 
  <img align="right" height="350" src="https://static.wikia.nocookie.net/darwin-project/images/e/ec/Nuke.png/revision/latest?cb=20200105073958"  />
-AtomikRoyalReborn (Prototype)<br>
 Languages used : C#, Unity<br>
 Role : Physics, 3C and level design <br>
 Project duration : 1 weeks<br>
@@ -85,17 +83,17 @@ Gameplay : https://www.instagram.com/p/C3ausM7NtP5/?img_index=1<br><br>
 <img align="center" height="250" src="https://i.ytimg.com/vi/eu3gUgZjkmM/maxresdefault.jpg"  />
 
  <br><br> 
-<h2 align="left"></h2>
+ 
+
+
+
+
+
+<h2 align="left">Bob VS Fernand</h2>
 <br> 
-
-
-
-
-
 
  <img align="left" height="300" src="https://i.imgur.com/Iplnlw6.png"  />
  
-Bob VS Fernand <br>
 Languages used : C#, Unity<br>
 Role : 3C, physics<br>
 Project duration : 5 weeks<br>
@@ -111,12 +109,11 @@ Lore : Bob is a pyromaniak and want to burn Fernand farm before the time limit. 
 
 
 
- <h2 align="left"></h2>
+ <h2 align="left">Blue Line</h2>
 <br> 
 
  <img align="right" height="500" src="https://st2.depositphotos.com/3227229/5594/v/450/depositphotos_55940809-stock-illustration-toolbox-icon-with-long-shadow.jpg"  />
  
-Blue Line <br>
 Languages used : C#, Unity<br>
 Role : Main programmer<br>
 Project duration : 8 weeks<br>
@@ -137,7 +134,7 @@ BlueLine, evolue, with you.
 
 
 
- <h2 align="left"></h2>
+ <h2 align="left">Atomik Royal</h2>
  </div>
  <div align="left">
 
@@ -149,7 +146,6 @@ BlueLine, evolue, with you.
 
  <img align="left" height="300" src="https://i.imgur.com/C3EoJIf.gif"  />
  
-Atomik Royal <br>
 Languages used : C++, SFML<br>
 Role : Network, 3C<br>
 Project duration : 7 weeks<br>
