@@ -175,6 +175,7 @@ Lore : Be propelled up to 12 players in this chaotic remix of the famous Bomberm
  -Visual novel : Le Seau des Damnés. (12/10/22) https://www.instagram.com/p/CnBvHyzszgt/?img_index=1<br>
  -Lilo (02/11/22)<br>
  -Online chat SFML (17/02/23)<br>
+ -Final exam of secondary year, Game Academy (Bubble Puzzle) (09/03/23)<br>
  -Mario Like (01/10/2023)<br>
  -Marchand.go (12/10/2023)<br>
  -LiquidSnake (11/11/2023)<br>
