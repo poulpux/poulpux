@@ -179,6 +179,8 @@ Lore : Be propelled up to 12 players in this chaotic remix of the famous Bomberm
  -Mario Like (01/10/2023)<br>
  -Marchand.go (12/10/2023)<br>
  -LiquidSnake (11/11/2023)<br>
+ -Chess3D (26/01/2024)<br>
+ -Mighty Chicken (29/01/2024)<br>
  -Gamejam 2024 (22/03/2024) https://www.instagram.com/p/C5BYqhEC9h2/<br>
  -ButtonUp (28/03/2024) <br>
  
