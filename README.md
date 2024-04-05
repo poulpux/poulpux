@@ -40,8 +40,6 @@
   <img width="12" />
         <img src="https://skillicons.dev/icons?i=github" height="40" alt="cplusplus logo"  />
   <img width="12" />
-          <img src="https://skillicons.dev/icons?i=miro" height="40" alt="cplusplus logo"  />
-  <img width="12" />
   
 </div>
 <br>
