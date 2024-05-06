@@ -81,7 +81,7 @@ Gameplay : https://www.youtube.com/watch?v=aGvN89N8iu8<br><br>
 
  <img align="right" height="350" src="https://static.wikia.nocookie.net/darwin-project/images/e/ec/Nuke.png/revision/latest?cb=20200105073958"  />
 Languages used : C#, Unity<br>
-Role : Physics, 3C and level design <br>
+Role : Physics, 3C, level design and gameLoop<br>
 Project duration : 1 weeks<br>
 Date : 12/02/2024<br>
 Staff : 2 people<br>
@@ -187,7 +187,7 @@ Lore : Be propelled up to 12 players in this chaotic remix of the famous Bomberm
  -Chess3D (26/01/2024)<br>
  -Mighty Chicken (29/01/2024)<br>
  -Realm Nightmare (3C, trailer, talasophobia world) (29/02/2024) https://www.instagram.com/p/C5lZpfPMeGD/<br> 
- -Gamejam 2024 (22/03/2024) https://www.instagram.com/p/C5BYqhEC9h2/<br>
+ -Gamejam 2024 (IA) (22/03/2024) https://www.instagram.com/p/C5BYqhEC9h2/<br>
  -ButtonUp (28/03/2024) <br>
  -Final exam of third year, Game Academy (15/04/2024)  https://www.instagram.com/p/C6bNAyksnUz/  <br>
  -Crush Cars (3C, Physics) (29/04/2024)
