@@ -74,7 +74,7 @@ Project duration : 8 weeks<br>
 Date : 01/12/2023<br>
 Staff : alone<br>
 Type : Tools<br><br>
-The biggest waste of time for a programmer and always rewrite the same scripts, moves, camera, etc.<br>If you agree with this, BlueLine is for you.<br>
+The biggest waste of time for a programmer is to always rewrite the same scripts, moves, camera, etc.<br>If you agree with this, BlueLine is for you.<br>
 
 BlueLine contain : <br>
 -An easy export import unitypackage tool using firebase to access to your scripts whenever you want, wherever you want.<br>
