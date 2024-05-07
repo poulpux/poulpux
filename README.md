@@ -3,42 +3,6 @@
 <br clear="both">
 <img align="right" height="250" src="https://i.imgur.com/yMkInMr.png"  />
 <h8 align="left">At 19 and currently a student at the Game Academy, I am a programming enthusiast specializing in C++ development with SFML and C# on Unity.<br><br>My extensive training not only allowed me to acquire advanced skills in these languages, but also to develop significant experience in collaborative work.<br><br>Accustomed to working in groups, I have actively contributed to many projects, both in teams and solo, demonstrating my versatility and passion for innovation in the field of video game development.<br><br></h8>
-
-<br clear="both">
-<br>
-<p align="left">Languages :</p>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="cplusplus logo"  />
-
-</div>
-
-<p align="left">Softwares :</p>
-
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=unity" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-      <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-        <img src="https://skillicons.dev/icons?i=github" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  
-</div>
-<br>
-<div align="left">
-  <a href="ambroise.marquet@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="ambroise.marquet@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-
  
 <h2 align="left">FreakSquad</h2>
 </div>
@@ -189,5 +153,43 @@ Lore : Be propelled up to 12 players in this chaotic remix of the famous Bomberm
 
 
 </div>
+
+
+
+
+<br clear="both">
+<br>
+<p align="left">Languages :</p>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="cplusplus logo"  />
+
+</div>
+
+<p align="left">Softwares :</p>
+
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=unity" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+      <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+        <img src="https://skillicons.dev/icons?i=github" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  
+</div>
+<br>
+<div align="left">
+  <a href="ambroise.marquet@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="ambroise.marquet@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
 
 
