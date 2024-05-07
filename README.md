@@ -2,27 +2,10 @@
 
 <br clear="both">
 <img align="right" height="250" src="https://i.imgur.com/yMkInMr.png"  />
-<h8 align="left">At 19 and currently a student at the Game Academy, I am a programming enthusiast specializing in C++ development with SFML and C# on Unity.<br><br>My extensive training not only allowed me to acquire advanced skills in these languages, but also to develop significant experience in collaborative work.<br><br>Accustomed to working in groups, I have actively contributed to many projects, both in teams and solo, demonstrating my versatility and passion for innovation in the field of video game development.<br><br><br><br></h8>
-<div align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api?username=poulpux&show_icons=true&show_icons=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poulpux&show_icons=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-one-henna.vercel.app?user=Poulpux&theme=dracula" alt="GitHub Streak" /></a>
-
-
-
-
-
-
-
-
-
-
-
-</div>
+<h8 align="left">At 19 and currently a student at the Game Academy, I am a programming enthusiast specializing in C++ development with SFML and C# on Unity.<br><br>My extensive training not only allowed me to acquire advanced skills in these languages, but also to develop significant experience in collaborative work.<br><br>Accustomed to working in groups, I have actively contributed to many projects, both in teams and solo, demonstrating my versatility and passion for innovation in the field of video game development.<br><br></h8>
 
 <br clear="both">
-<br><br><br>
+<br>
 <p align="left">Languages :</p>
 
 <div align="left">
@@ -194,4 +177,17 @@ Lore : Be propelled up to 12 players in this chaotic remix of the famous Bomberm
  -Crush Cars (3C, Physics) (29/04/2024)
 <br> 
 </div>
+
+
+
+
+<div align="center">
+ 
+  <img src="https://github-readme-stats.vercel.app/api?username=poulpux&show_icons=true&show_icons=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poulpux&show_icons=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-one-henna.vercel.app?user=Poulpux&theme=dracula" alt="GitHub Streak" /></a>
+
+
+</div>
+
 
