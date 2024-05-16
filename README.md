@@ -12,6 +12,20 @@
 <br clear="both">
 <img align="right" height="250" src="https://i.imgur.com/yMkInMr.png"  />
 <h8 align="left">At 19 and former a student at the Game Academy, I am a programming enthusiast specializing in C++ development with SFML and C# on Unity.<br><br>My extensive training not only allowed me to acquire advanced skills in these languages, but also to develop significant experience in collaborative work.<br><br>Accustomed to working in groups, I have actively contributed to many projects, both in teams and solo, demonstrating my versatility and passion for innovation in the field of video game development.<br><br></h8>
+
+<br>
+<div align="left">
+<a href="https://www.instagram.com/ambroise.mt/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=D43377&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+ 
+  <a href="ambroise.marquet@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="ambroise.marquet@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <br>
  
 <h1 align="left">All my projects :point_down:</h1>
 <h2 align="left">FreakSquad</h2>
@@ -153,7 +167,7 @@ Lore : Be propelled up to 12 players in this chaotic remix of the famous Bomberm
 </div>
 
 
-<h1 align="left">Other information about my profil</h1>
+<h1 align="left">Other information :</h1>
 
 <div align="center">
  
@@ -193,13 +207,6 @@ Lore : Be propelled up to 12 players in this chaotic remix of the famous Bomberm
   <img width="12" />
   
 </div>
-<br>
-<div align="left">
-  <a href="ambroise.marquet@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="ambroise.marquet@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+
 
 
