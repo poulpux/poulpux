@@ -166,7 +166,7 @@ Lore : Be propelled up to 12 players in this chaotic remix of the famous Bomberm
 </div>
 
 
-<h1 align="left">Other information :</h1>
+<h1 align="left">Other informations :</h1>
 
 <div align="center">
  
