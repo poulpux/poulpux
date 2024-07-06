@@ -5,7 +5,6 @@
 
 
 
-
 <br clear="both">
 <img align="right" height="250" src="https://i.imgur.com/yMkInMr.png"  />
 <h8 align="left">At 19 and former a student at the Game Academy, I am a programming enthusiast specializing in C++ development with SFML and C# on Unity.<br><br>My extensive training not only allowed me to acquire advanced skills in these languages, but also to develop significant experience in collaborative work.<br><br>Accustomed to working in groups, I have actively contributed to many projects, both in teams and solo, demonstrating my versatility and passion for innovation in the field of video game development.<br><br></h8>
