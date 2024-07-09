@@ -1,6 +1,13 @@
 <h2 align="left">Hi 👋! My name is Ambroise, from France.</h2>
 
 
+<h8 align="left">
+My contact details and social networks :<br><br>
+Email : ambroise.marquet@gmail.com<br>
+Instagram : https://www.instagram.com/ambroise.mt/<br>
+Twitch : https://www.twitch.tv/poulpux_dev<br>
+Discord server : https://discord.gg/Tw8kmSHJ7K<br><br>
+</h8>
 
 
 
