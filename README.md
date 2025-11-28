@@ -18,7 +18,7 @@ Discord server : https://discord.gg/Tw8kmSHJ7K<br><br>
 <h8 align="left">At 19 and former a student at the Game Academy, I am a programming enthusiast specializing in C++ development with SFML and C# on Unity.<br><br>My extensive training not only allowed me to acquire advanced skills in these languages, but also to develop significant experience in collaborative work.<br><br>Accustomed to working in groups, I have actively contributed to many projects, both in teams and solo, demonstrating my versatility and passion for innovation in the field of video game development.<br><br></h8>
 
  
-<h1 align="left">All my projects (01/03/2024):point_down:</h1>
+<h1 align="left">All my projects (01/03/2024) :point_down:</h1>
 <h2 align="left">FreakSquad</h2>
 </div>
  <br><br>
